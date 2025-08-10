@@ -1,4 +1,8 @@
 -estado del proyecto en construccion
+
+para ejecutar el sistema, debes poner:
+
+"""npm install react"""
 ### Resolución de los desafíos del curso de lógica de programación
 
 **Practicar la lógica de programación**, que incluye conceptos como variables, condicionales (if-else), bucles (while) e interacciones con el usuario (alert, prompt), es esencial para tu carrera en el desarrollo de software. Estos fundamentos proporcionan la base para resolver problemas de manera estructurada, tomar decisiones en el código, crear iteraciones controladas e interactuar eficazmente con los usuarios.
